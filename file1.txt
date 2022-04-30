@@ -1,4 +1,4 @@
 line1
-efgh2
+bug 2 text mofdified
 line3
 line4
