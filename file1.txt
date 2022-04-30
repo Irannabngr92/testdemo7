@@ -1,7 +1,4 @@
 line1
-
-#head master =  new text bug2
-
-bug 2 =  bug 2 text mofdified
+line2
 line3
 line4
