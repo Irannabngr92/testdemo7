@@ -1,4 +1,4 @@
 line1
-line2
+line2  : modified file at  bug2 
 line3
 line4
