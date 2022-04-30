@@ -2,4 +2,4 @@
 line1  :    modified file at master level
 line2  :    modified file at  bug2 level
 line3
-line4
+line4  : modified file at  bug 2 level
